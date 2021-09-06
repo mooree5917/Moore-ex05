@@ -3,7 +3,11 @@
  *  Copyright 2021 Eric Moore
  */
 package Solution05;
-
+/*
+    This program requests the user to enter two numbers.
+    The program then prints the numbers and the solution for
+    addition, subtraction, multiplication, and division.
+*/
 import java.util.Scanner;
 
 public class application {
